@@ -31,7 +31,7 @@ Each prompt is now a complete toolkit, including steps for data validation, cogn
 
 ## Files
 
-* [`Enhanced_Analysis_Prompts_v3.1.md`](Enhanced_Analysis_Prompts_v3.1.md): The full set of 11 prompts in Czech.
+* [`Enhanced_Analysis_Prompts_v3.1.md`](Enhanced_Analysis_Prompts_v3.1_CZ.md): The full set of 11 prompts in Czech.
 * [`Enhanced_Analysis_Prompts_v3.1_EN.md`](Enhanced_Analysis_Prompts_v3.1_EN.md): The full set of 11 prompts in English.
 
 ## Contributing & Feedback
